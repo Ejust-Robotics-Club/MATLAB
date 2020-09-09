@@ -29,8 +29,7 @@ MATLAB, is a programming language for algorithms development, data analysis, vis
 
 12.Ordinary Defferntial Equations (ODE)
 
-## Course Instructors
-
+The content will be uploaded when courses are launched
   
 Return to [home page](https://ejust-robotics-club.github.io/Ejust-Robotics-Club/).
 
