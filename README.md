@@ -1,7 +1,7 @@
 # Welcome to Robotics Club Family
-Important Note: Please Stay safe and in good health and take necessary precautions and commit to the preventive measures.
+**Important Note**: Please Stay safe and in good health and take necessary precautions and commit to the preventive measures.
 
-## Course Describtion
+## Course Description
 MATLAB, is a programming language for algorithms development, data analysis, visualization and numeric computation. MATLAB, is provided with packages that critical for mechanical, electrical, electronics, computer science, control, mechatronics, and robotics engineering. So, understanding the MATLAB language is critical to be involved in robotics field. So, at this course we provide most of perquisites and building blocks for concurrent courses or others courses in the future.
 ## Course Content
 
