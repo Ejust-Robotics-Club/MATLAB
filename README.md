@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Welcome to Robotics Club Family
+Important Note: Please Stay safe and in good health and take necessary precautions and commit to the preventive measures.
 
-You can use the [editor on GitHub](https://github.com/Ejust-Robotics-Club/MATLAB/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Course Describtion
+MATLAB, is a programming language for algorithms development, data analysis, visualization and numeric computation. MATLAB, is provided with packages that critical for mechanical, electrical, electronics, computer science, control, mechatronics, and robotics engineering. So, understanding the MATLAB language is critical to be involved in robotics field. So, at this course we provide most of perquisites and building blocks for concurrent courses or others courses in the future.
+## Course Content
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1.Introduction to MATLAB Environment
 
-### Markdown
+2.Matrices Operations
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3.Vectorization
 
-```markdown
-Syntax highlighted code block
+4.Rational and logical operations
 
-# Header 1
-## Header 2
-### Header 3
+5.Conditional Statements
 
-- Bulleted
-- List
+6.Loops
 
-1. Numbered
-2. List
+7.Functions
+ 
+8.Data types
 
-**Bold** and _Italic_ and `Code` text
+9.Data visualization
 
-[Link](url) and ![Image](src)
-```
+10.File I/O
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+11.Root Findings
 
-### Jekyll Themes
+12.Ordinary Defferntial Equations (ODE)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ejust-Robotics-Club/MATLAB/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Course Instructors
 
-### Support or Contact
+  
+Return to [home page](https://ejust-robotics-club.github.io/Ejust-Robotics-Club/).
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
